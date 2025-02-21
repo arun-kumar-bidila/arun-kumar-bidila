@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://res.cloudinary.com/dxezbktvq/image/upload/v1740124576/15_Programming_tips_to_improve_your_coding_productivity_ahgu0h.jpg" alt="Banner" width="100%" height ="75%">
+<img src="https://res.cloudinary.com/dxezbktvq/image/upload/v1740124576/15_Programming_tips_to_improve_your_coding_productivity_ahgu0h.jpg" alt="Banner" width="100%" height ="50%">
 
 # Hi 👋, I'm Arun Kumar
 

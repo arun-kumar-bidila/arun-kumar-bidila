@@ -45,9 +45,9 @@
 ---
 
 ## 📌 Projects:
-🔹 AI Resume Analyzer – A web-based tool that analyzes resumes using NLP, gives ATS-style scoring, identifies missing skills, and provides improvement suggestions.
-🔹 AI Interview Assistant Tool – An AI-powered mock interview system that asks questions in real time, evaluates responses, and provides structured feedback for improvement.
-🔹 SVFoods Flutter App – A modern Flutter-based food ordering application with a responsive UI and integrated backend for menu listing, ordering, and cart management.
+🔹 **AI Resume Analyzer** – A web-based tool that analyzes resumes using NLP, gives ATS-style scoring, identifies missing skills, and provides improvement suggestions.
+🔹 **AI Interview Assistant Tool** – An AI-powered mock interview system that asks questions in real time, evaluates responses, and provides structured feedback for improvement.
+🔹 **SVFoods Website & App** – A modern React & Flutter-based food ordering application with a responsive UI and integrated backend for menu listing, ordering, and cart management.
 🔹 **Cygnus Cultural College Website** – A website for managing cultural events at my college  
 🔹 **Lecture Notes Generation Using Python** – A tool for automatically generating lecture notes  
 

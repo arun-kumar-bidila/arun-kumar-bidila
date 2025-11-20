@@ -44,12 +44,26 @@
 
 ---
 
-## 📌 Projects:
-🔹 **AI Resume Analyzer** – A web-based tool that analyzes resumes using NLP, gives ATS-style scoring, identifies missing skills, and provides improvement suggestions.
-🔹 **AI Interview Assistant Tool** – An AI-powered mock interview system that asks questions in real time, evaluates responses, and provides structured feedback for improvement.
-🔹 **SVFoods Website & App** – A modern React & Flutter-based food ordering application with a responsive UI and integrated backend for menu listing, ordering, and cart management.
-🔹 **Cygnus Cultural College Website** – A website for managing cultural events at my college  
-🔹 **Lecture Notes Generation Using Python** – A tool for automatically generating lecture notes  
+📌 Projects
+🔹 AI Resume Analyzer
+
+A web-based tool that analyzes resumes using NLP, generates ATS-style scoring, identifies missing skills, and provides actionable improvement suggestions.
+
+🔹 AI Interview Assistant Tool
+
+An AI-powered mock interview system that asks questions in real time, evaluates user responses, and provides structured feedback to improve interview performance.
+
+🔹 SVFoods Website & App
+
+A full-stack React & Flutter-based food ordering platform with a responsive UI, integrated backend, real-time menu listing, order management, and cart functionality.
+
+🔹 Cygnus Cultural College Website
+
+A complete event-management website built for organizing and handling cultural events at my college, including registration, scheduling, and admin features.
+
+🔹 Lecture Notes Generation Using Python
+
+A Python-based automation tool that extracts meaningful frames, performs OCR, generates summaries, and creates neatly structured lecture notes.
 
 ---
 

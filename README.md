@@ -4,7 +4,7 @@
 # Hi 👋, I'm Arun Kumar
 
 ## About Me:
-🔹 **Full-Stack Developer | Mobile App Developer **  
+🔹 **Full-Stack Developer** | **Mobile App Developer**  
 🏆 **Tech Hackathon Winner**  
 🎓 Passionate about building scalable applications and innovative solutions  
 🤝 Looking to collaborate on **Flutter, Backend & Full-Stack** projects  
@@ -45,29 +45,22 @@
 ---
 
 ## 📌 Projects:
-🔹 AI Resume Analyzer
+🔹 **AI Resume Analyzer** : A web-based tool that analyzes resumes using NLP, generates ATS-style scoring, identifies missing skills, and provides actionable improvement suggestions.
 
-A web-based tool that analyzes resumes using NLP, generates ATS-style scoring, identifies missing skills, and provides actionable improvement suggestions.
+🔹 **AI Interview Assistant Tool** : An AI-powered mock interview system that asks questions in real time, evaluates user responses, and provides structured feedback to improve interview performance.
 
-🔹 AI Interview Assistant Tool
+🔹 **SVFoods Website & App** : A full-stack React & Flutter-based food ordering platform with a responsive UI, integrated backend, real-time menu listing, order management, and cart functionality.
 
-An AI-powered mock interview system that asks questions in real time, evaluates user responses, and provides structured feedback to improve interview performance.
+🔹 **Cygnus Cultural College Website** : A complete event-management website built for organizing and handling cultural events at my college, including registration, scheduling, and admin features.
 
-🔹 SVFoods Website & App
+🔹 **Lecture Notes Generation Using Python** : A Python-based automation tool that extracts meaningful frames, performs OCR, generates summaries, and creates neatly structured lecture notes.
 
-A full-stack React & Flutter-based food ordering platform with a responsive UI, integrated backend, real-time menu listing, order management, and cart functionality.
 
-🔹 Cygnus Cultural College Website
-
-A complete event-management website built for organizing and handling cultural events at my college, including registration, scheduling, and admin features.
-
-🔹 Lecture Notes Generation Using Python
-
-A Python-based automation tool that extracts meaningful frames, performs OCR, generates summaries, and creates neatly structured lecture notes.
 
 ---
 
 ## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-kumar-bidila&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-kumar-bidila&layout=compact&theme=dark)
 
 ---

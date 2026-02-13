@@ -59,9 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-kumar-bidila&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-kumar-bidila&layout=compact&theme=dark)
+
 
 ---
 
